@@ -3,6 +3,8 @@
 Reusable SystemVerilog hardware modules developed while studying FPGA design.
 
 ## Repo Structure
+
+```
 .
 ├── README.md
 ├── src/
@@ -19,3 +21,4 @@ Reusable SystemVerilog hardware modules developed while studying FPGA design.
 │       └── ...       
 └── tb/
     └── ...   
+```
