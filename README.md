@@ -8,7 +8,7 @@ Reusable SystemVerilog hardware modules developed while studying FPGA design.
 .
 ├── README.md
 ├── src/
-│   └── combinational/
+│   ├── combinational/
 │   │   ├── arithmetic/
 │   │   │   └── ...
 │   │   ├── converters/
