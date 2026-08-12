@@ -28,7 +28,7 @@ Reusable SystemVerilog hardware modules developed while studying FPGA design.
 │   │   └── top/                  # SoC top-level integration
 │   ├── pkg/               # shared packages: types, params, opcode enums (not modules)
 │   └── interface/                # SystemVerilog interfaces: AXI-Lite, APB, custom handshake
-├── tb/                           # verification — mirror the src/ tree
+├── tb/                           # verification - mirror the src/ tree
 │   └── common/                   # reusable verif IP: driver, monitor, scoreboard, coverage, SVA
 ├── fpga/                         # board-specific: constraints (.sdc/.qsf), pin maps, top wrappers
 ├── formal/                       # formal properties (SVA), if pursued
